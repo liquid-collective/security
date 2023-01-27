@@ -1,4 +1,4 @@
-# Liquid Collective Security Audits
+# Security Audits
 
 ## 2022-07 Halborn's Security Audit
 
