@@ -4,7 +4,7 @@ Liquid Collective recognize the importance of protecting users security when usi
 
 ## Security Audits
 
-We’ve engaged, independent security firms Halborn and Spearbit, to perform audits of the protocol. Every protocol feature deployed to mainnet has previously been reviewed by at least one of those teams.
+Liquid Collective has engaged independent security firms Halborn and Spearbit to perform security audits of the protocol. Every protocol feature deployed to mainnet has previously been reviewed by at least one of those teams.
 
 For more details please, refer to list [Liquid Collective Security Audits](AUDITS.md)
 
