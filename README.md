@@ -7,3 +7,9 @@ Liquid Collective recognize the importance of protecting users security when usi
 We’ve engaged, independent security firms Halborn and Spearbit, to perform audits of the protocol. Every protocol feature deployed to mainnet has previously been reviewed by at least one of those teams.
 
 For more details please, refer to list [Liquid Collective Security Audits](AUDITS.md)
+
+## Vulnerability Disclosure Policy
+
+We welcome the community to review our code and report any bug or security vulnerability they find.
+
+For more details please, refer to list [Vulnerability Disclosure Policy](VULNERABILITY_DISCLOSURE.md)
