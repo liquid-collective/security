@@ -1,6 +1,6 @@
 # Liquid Collective Security
 
-Liquid Collective recognize the importance of protecting users security when using our protocols and products. We understand that secure protocols and products are primordial to maintain the trust users place in us. We constantly aim at improving our products and processes to both serve user needs and preserve user’s security. 
+Liquid Collective recognize the importance of protecting users security when using our protocols and products. We understand that secure protocols and products are primordial to maintain the trust users place in us. We constantly aim at improving our products and processes to both serve user needs and preserve user’s safety. 
 
 ## Security Audits
 
@@ -10,6 +10,6 @@ For more details please, refer to list [Liquid Collective Security Audits](AUDIT
 
 ## Vulnerability Disclosure Policy
 
-We welcome the community to review our code and report any bug or security vulnerability they find.
+We welcome the community to review our code and report any bug or security vulnerability they discover.
 
 For more details please, refer to list [Vulnerability Disclosure Policy](VULNERABILITY_DISCLOSURE.md)
