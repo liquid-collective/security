@@ -1,6 +1,12 @@
 # Security Audits
 
-## 2022-11 Spearbit's Security Audit
+| **Date** | **Auditor** |                 **Scope**                 |                       **Link**                  |
+|:--------:|:-----------:|:-----------------------------------------:|:-----------------------------------------------:|
+|  2022-11 |   Spearbit  | TLC, Slashing Coverage, Protocol Metadata | [Spearbit #2](#2022-11-spearbit-security-audit) |
+|  2022-09 |   Spearbit  | Entire initial protocol                   | [Spearbit #1](#2022-09-spearbit-security-audit) |
+|  2022-07 |   Halborn   | Entire initial protocol                   | [Halborn #1](#2022-07-halborn-security-audit)   |
+
+## 2022-11 Spearbit Security Audit
 
 ### Audit Dates
 
@@ -31,7 +37,7 @@ It covers
 
 See [full report](in-progress) for more details.
 
-## 2022-09 Spearbit's Security Audit
+## 2022-09 Spearbit Security Audit
 
 ### Audit Dates
 
@@ -69,7 +75,7 @@ It covers the following smart contracts
 
 See [full report](https://github.com/spearbit/portfolio/blob/master/pdfs/LiquidCollective-Spearbit-Security-Review.pdf) for more details.
 
-## 2022-07 Halborn's Security Audit
+## 2022-07 Halborn Security Audit
 
 ### Audit Dates
 
