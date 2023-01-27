@@ -1,6 +1,9 @@
 # Liquid Collective Security
 
-Liquid Collective recognize the importance of protecting users security when using our protocols and products. We understand that secure protocols and products are primordial to maintain the trust users place in us. We constantly aim at improving our products and processes to both serve user needs and preserve user’s safety. 
+Liquid Collective recognizes the importance of protecting users' security when using our protocols and products. We understand that secure protocols and products are primordial to maintain the trust users place in us. 
+
+We constantly aim to improve our products and processes, to both serve users' needs for the highest level of security and to preserve users' safety. 
+ 
 
 ## Security Audits
 
