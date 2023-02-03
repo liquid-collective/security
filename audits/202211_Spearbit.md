@@ -27,4 +27,4 @@ It covers
 
 ## Audit Report
 
-See [full report](in-progress) for more details.
+See [full report](https://github.com/spearbit/portfolio/blob/master/pdfs/LiquidCollective2-Spearbit-Security-Review.pdf) for more details.
