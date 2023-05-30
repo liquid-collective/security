@@ -10,6 +10,7 @@ Liquid Collective has engaged independent security firms Halborn and Spearbit to
 
 | **Date** | **Auditor** |                 **Scope**                 |                  **Link**                |
 |:--------:|:-----------:|:-----------------------------------------:|:----------------------------------------:|
+|  2023-03 |   Spearbit  | Withdrawals                               | [Spearbit #3](audits/202303_Spearbit.md) |
 |  2022-11 |   Spearbit  | TLC, Slashing Coverage, Protocol Metadata | [Spearbit #2](audits/202211_Spearbit.md) |
 |  2022-09 |   Spearbit  | Entire initial protocol                   | [Spearbit #1](audits/202209_Spearbit.md) |
 |  2022-07 |   Halborn   | Entire initial protocol                   | [Halborn #1](audits/202211_Spearbit.md)  |
