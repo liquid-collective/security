@@ -24,6 +24,10 @@ It covers
 |   Informational   |     24    |     17    |         7        |
 |     **Total**     |     49    |     36    |         13       |
 
+## Security Researchers
+
+[![](https://github.com/optimumsec.png?size=50)](https://github.com/optimumsec) [![](https://github.com/Saw-mon-and-Natalie.png?size=50)](https://github.com/Saw-mon-and-Natalie) [![](https://github.com/xiaoming9090.png?size=50)](https://github.com/xiaoming9090) [![](https://github.com/eccentricexit.png?size=50)](https://github.com/eccentricexit) [Ellahinator](https://github.com/Ellahinator)
+
 ## Audit Report
 
 See [full report](https://github.com/spearbit/portfolio/blob/master/pdfs/LiquidCollective3-Spearbit-Security-Review.pdf) for more details.

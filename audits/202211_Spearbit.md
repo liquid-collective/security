@@ -25,6 +25,10 @@ It covers
 |   Informational   |     25    |     23    |         2        |
 |     **Total**     |     31    |     27    |         4        |
 
+## Security Researchers
+
+[![](https://github.com/optimumsec.png?size=50)](https://github.com/optimumsec) [![](https://github.com/StErMi.png?size=50)](https://github.com/StErMi) [![](https://github.com/eccentricexit.png?size=50)](https://github.com/eccentricexit) [Ellahinator](https://github.com/Ellahinator)
+
 ## Audit Report
 
 See [full report](https://github.com/spearbit/portfolio/blob/master/pdfs/LiquidCollective2-Spearbit-Security-Review.pdf) for more details.
