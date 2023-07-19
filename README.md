@@ -8,7 +8,7 @@ We constantly aim to improve our products and processes, to both serve users' ne
 
 Liquid Collective has engaged independent security firms Halborn and Spearbit to perform security audits of the protocol. Every protocol feature deployed to mainnet has previously been reviewed by at least one of those teams.
 
-| **Date** | **Auditor** |                 **Scope**                 |                 **Link**                 |
+| **Audit Month** | **Auditor** |                 **Scope**                 |                 **Link**                 |
 |:--------:|:-----------:|:-----------------------------------------:|:----------------------------------------:|
 | 2023-03  |  Spearbit   |                Withdrawals                | [Spearbit #3](audits/202303_Spearbit.md) |
 | 2022-11  |  Spearbit   | TLC, Slashing Coverage, Protocol Metadata | [Spearbit #2](audits/202211_Spearbit.md) |
