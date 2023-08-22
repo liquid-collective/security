@@ -10,6 +10,7 @@ Liquid Collective has engaged independent security firms Halborn and Spearbit to
 
 | **Audit Month** | **Auditor** |                 **Scope**                 |                 **Report Link**                 |                  **Commit Link**                 |
 |:--------:|:-----------:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+| 2023-05  |  Spearbit   |                Validators' Count (post-withdrawal informational fixes)              | [Spearbit #4](audits/202305_Spearbit.md) |[638e03ea1799600698a2bd40bfcbf5406b083dd3](https://github.com/liquid-collective/liquid-collective-protocol/commit/638e03ea1799600698a2bd40bfcbf5406b083dd3)|
 | 2023-03  |  Spearbit   |                Withdrawals                | [Spearbit #3](audits/202303_Spearbit.md) |[3a23e607c2c45334fc7fa37032ad389b4fa6dbae](https://github.com/liquid-collective/liquid-collective-protocol/commit/3a23e607c2c45334fc7fa37032ad389b4fa6dbae)|
 | 2022-11  |  Spearbit   | TLC, Slashing Coverage, Protocol Metadata | [Spearbit #2](audits/202211_Spearbit.md) |[7693929ce487f2467f0558dd47e6f3ff59399121](https://github.com/liquid-collective/liquid-collective-protocol/pull/174/commits/7693929ce487f2467f0558dd47e6f3ff59399121)|
 | 2022-09  |  Spearbit   |          Entire initial protocol          | [Spearbit #1](audits/202209_Spearbit.md) |[778d71c5c2b0bb7d430b60df72b4d65173ebee6a](https://github.com/liquid-collective/liquid-collective-protocol/commit/778d71c5c2b0bb7d430b60df72b4d65173ebee6a)|
