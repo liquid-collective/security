@@ -10,6 +10,7 @@ Liquid Collective has engaged independent security firms Halborn and Spearbit to
 
 | **Audit Month** | **Auditor** |                 **Scope**                 |                 **Report Link**                 |                  **Commit Link**                 |
 |:--------:|:-----------:|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+| 2023-09  |  Spearbit   |              TLC Unlock Updates              | [Spearbit #6](audits/202309_Spearbit.md) |[PR232](https://github.com/liquid-collective/liquid-collective-protocol/pull/232)|
 | 2023-07  |  Spearbit   |                Deposit by multiples of 32 ETH (post-withdrawal optimization)              | [Spearbit #5](audits/202307_Spearbit.md) |[PR222](https://github.com/liquid-collective/liquid-collective-protocol/pull/222)|
 | 2023-05  |  Spearbit   |                Validators' Count (post-withdrawal informational fixes)              | [Spearbit #4](audits/202305_Spearbit.md) |[638e03ea1799600698a2bd40bfcbf5406b083dd3](https://github.com/liquid-collective/liquid-collective-protocol/commit/638e03ea1799600698a2bd40bfcbf5406b083dd3)|
 | 2023-03  |  Spearbit   |                Withdrawals                | [Spearbit #3](audits/202303_Spearbit.md) |[3a23e607c2c45334fc7fa37032ad389b4fa6dbae](https://github.com/liquid-collective/liquid-collective-protocol/commit/3a23e607c2c45334fc7fa37032ad389b4fa6dbae)|
@@ -21,4 +22,4 @@ Liquid Collective has engaged independent security firms Halborn and Spearbit to
 
 We welcome the community to review our code and report any bug or security vulnerability they discover.
 
-For more details, please, refer to the list [Vulnerability Disclosure Policy](VULNERABILITY_DISCLOSURE.md)
+For more details, please refer to the list [Vulnerability Disclosure Policy](VULNERABILITY_DISCLOSURE.md)
