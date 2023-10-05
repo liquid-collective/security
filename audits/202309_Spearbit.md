@@ -7,6 +7,7 @@ Sept. 6th - Sept. 12th, 2023
 ## Audit Scope
 
 The technical upgrade to the TLC contract includes the addition of a Global Unlocking parameter, which enables TLC unlocking schedules to be set such that 12 months from the TLC contract upgrade, tokens begin unlocking 1/24th per month for 24 months.
+
 There are also two minor updates:
 - added `getRiver()` view function to `RedeemManager`.
 - added `setOperatorStoppedValidatorCount` event. 
