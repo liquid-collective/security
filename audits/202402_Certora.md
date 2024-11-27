@@ -37,4 +37,4 @@ It covers the following smart contracts & all the contracts that they inherit:
 
 ## Audit Report
 
-See [full report]() for more details.
+See [Certora's full report](https://www.certora.com/reports/alluvialfinance-liquidcollective) for more details.

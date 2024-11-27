@@ -6,7 +6,7 @@ We constantly aim to improve our products and processes to serve users' needs fo
 
 ## Security Audits
 
-Liquid Collective has engaged independent security firms Halborn, Spearbit and Certora to perform security protocol audits. Every protocol feature deployed to Mainnet has previously been reviewed by at least one of those teams.
+Liquid Collective has engaged independent security firms Halborn, Spearbit and Certora to perform security protocol audits. Furthermore Liquid Collective has peformed a full formal verification of the product with the Certora team. Every protocol feature deployed to Mainnet has previously been reviewed by at least one of those teams.
 
 | **Audit Month** | **Auditor** |                           **Scope**                           |             **Report Link**              |                                                                            **Commit Link**                                                                            |
 | :-------------: | :---------: | :-----------------------------------------------------------: | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
