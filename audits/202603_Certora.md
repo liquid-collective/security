@@ -9,11 +9,11 @@ February 26th, 2026 -> March 16th, 2026.
 Differential audit of the Liquid Collective Protocol as per commit [dbcec79986](https://github.com/liquid-collective/liquid-collective-protocol/commit/dbcec79986) with final review at commit [964f0e363f](https://github.com/liquid-collective/liquid-collective-protocol/commit/964f0e363f).
 
 The audit focused on the following changes:
+- Refactor of the validator allocation selection logic across `OperatorsRegistryV1`, `RiverV1`, and `ConsensusLayerDepositManagerV1`, moving from a count-based approach to an explicit operator allocation model where allocations specify how many validators each operator should provide (BYOV)
+- Validator exit mechanism was updated from a count-based approach to an explicit operator allocation model where allocations specify how many validators each operator should exit (BYOV)
 - Contracts were upgraded to Solidity 0.8.33
 - Unnecessary `unchecked { ++i; }` were removed
 - Loop increments were moved to declaration for better readability
-- Refactor of the validator allocation selection logic across `OperatorsRegistryV1`, `RiverV1`, and `ConsensusLayerDepositManagerV1`, moving from a count-based approach to an explicit operator allocation model where allocations specify how many validators each operator should provide (BYOV)
-- Validator exit mechanism was updated from a count-based approach to an explicit operator allocation model where allocations specify how many validators each operator should exit (BYOV)
 
 It covers the following smart contracts & all the contracts that they inherit:
 - Administrable
